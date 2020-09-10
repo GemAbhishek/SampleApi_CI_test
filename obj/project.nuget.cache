@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f7YtHOKWk4cHVhsgAeEWMav/GYlBqaf/VY8f0O+BGftfkP8YVulZ7z46sTWfO+WKnbnvTB9HI78gtLyl7V+v3A==",
+  "dgSpecHash": "C5mUV1/pV2aFyvhE9aJtU3vv9I1Zu10hTgRknyaxofIHSbOVakX2T3mZ69T1UxvObi2pDF0/t2G33PWSQG/KQw==",
   "success": true,
   "projectFilePath": "G:\\visual studio\\SampleApi_CI_test\\SampleApi_CI_test.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ABHISHEK\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ABHISHEK\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
